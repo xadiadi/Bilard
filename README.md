@@ -1,5 +1,6 @@
 # Bilard
 Zabawa z konsolą
+VisualStudio 2019
 
 Zadanie
 Przedstawić graficznie uderzenie kuli po tablicy o dowolnych rozmiarach np 10x10

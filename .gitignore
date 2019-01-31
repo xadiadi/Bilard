@@ -1,0 +1,4 @@
+*.pdb
+Bilard/obj/
+.vs/
+Bilard/bin/

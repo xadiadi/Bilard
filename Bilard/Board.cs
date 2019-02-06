@@ -139,8 +139,6 @@ namespace Bilard
 
         private static bool IsDownDirection(Direction dir)
         {
-
-
             //ustawlam początkowy kierunek rzutu
             return dir == Direction.NW || dir == Direction.NE ? true : false;
         }
